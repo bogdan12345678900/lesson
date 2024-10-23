@@ -62,7 +62,6 @@
 #             print('*',end="")
 #         else:
 #             print(" ", end="")
-#
 #     print()
 
 a = int(input("a: "))
